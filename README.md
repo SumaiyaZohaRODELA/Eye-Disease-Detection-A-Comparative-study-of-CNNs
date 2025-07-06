@@ -1,2 +1,5 @@
 # Eye-Disease-Detection-A-Comparative-study-of-CNNs
 Eye Disease Detection: A Comparative study of the  VGG16 and ResNet50V2 model
+This presents a comparative analysis of deep learning models for the classification of eye diseases, including glaucoma, cataracts, diabetic retinopathy, and normal eye conditions. In this study, we evaluate the performance of two Convolutional Neural Network (CNN)-based architectures, VGG16 and ResNet50V2, using transfer learning to determine which model is more effective in disease detection. The models were assessed based on accuracy, precision, recall, and F1-score to identify the one that provides more accurate results. 
+ The findings indicate that deep learning, particularly transfer learning, is highly effective for automating disease diagnosis, with one model outperforming the other in terms of classification accuracy.
+This research highlights the potential of CNN-based models in improving medical imaging applications and aiding in early disease detection.
